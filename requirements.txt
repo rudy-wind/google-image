@@ -3,3 +3,4 @@ uvicorn
 icrawler
 Pillow
 requests
+BeautifulSoup
