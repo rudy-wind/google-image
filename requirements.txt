@@ -1,6 +1,5 @@
 fastapi
 uvicorn
-icrawler
 Pillow
 requests
 BeautifulSoup
