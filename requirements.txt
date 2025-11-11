@@ -1,5 +1,4 @@
 fastapi
 uvicorn
-Pillow
 requests
-BeautifulSoup
+beautifulsoup4
